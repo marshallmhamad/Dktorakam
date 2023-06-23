@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Dr. Nma Nariman",
+    "speciality": "Cardiologist",
+    "experience": "DM CARDIOLOGY | 10 Years Experience | Expert in Cardiology and    interventional cardiology",
+    "location": "Shar Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/portrait-woman-with-stethoscope_85574-12181.jpg?w=740",
+    "phone": "tel:07709553944",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/shar+hospital+sulaymaniyah/@35.5706035,45.4295815,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002dabf0221c1b:0xc5378cb72c066575!2m2!1d45.4427064!2d35.5813418?entry=ttu"
+  },
+  {
+    "name": "Dr. Rasty Mahmood",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, D.Card, MACC, CACC(USA), FCCP, MACAM",
+    "location": "Shar Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/handsome-young-doctor-with-lab-coat-stethoscope-using-tablet-computer-check-patient-s-history_662251-2962.jpg?w=740&t=st=1687522809~exp=1687523409~hmac=3f5b6da7e5d724ccdbad21787b452639f9bc20d90df60bbb0addef4c500e05c9",
+    "phone": "tel:07709864534",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/shar+hospital+sulaymaniyah/@35.5706035,45.4295815,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002dabf0221c1b:0xc5378cb72c066575!2m2!1d45.4427064!2d35.5813418?entry=ttu"
+  },
+  {
+    "name": "Dr. Sara Othman",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD (Medicine), DM (Cardiology)",
+    "location": "Shar Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/medical-concept-indian-beautiful-female-doctor-white-coat-with-stethoscope-waist-up-medical-student-woman-hospital-worker-looking-camera-smiling-studio-blue-background_185696-621.jpg?w=740",
+    "phone": "tel:07709864545",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/shar+hospital+sulaymaniyah/@35.5706035,45.4295815,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002dabf0221c1b:0xc5378cb72c066575!2m2!1d45.4427064!2d35.5813418?entry=ttu"
+  },
+  {
+    "name": "Dr. Zana Karim",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD (Medicine), DNB (Cardiology)",
+    "location": "Shar Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/portrait-professional-medical-worker-posing-picture-with-arms-folded_1098-19293.jpg?w=360&t=st=1687523114~exp=1687523714~hmac=0beb800e72948fff247453116965a10585841a9bd2ab38b7f7e2903b8c075cf5",
+    "phone": "tel:07709364545",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/shar+hospital+sulaymaniyah/@35.5706035,45.4295815,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002dabf0221c1b:0xc5378cb72c066575!2m2!1d45.4427064!2d35.5813418?entry=ttu"
+  },
+  {
+    "name": "Nyan Majid",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, DM (Cardiology)",
+    "location": "Shar Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/front-view-young-female-doctor-white-medical-suit-with-stethoscope-smiling-white_140725-16521.jpg?w=740&t=st=1687523342~exp=1687523942~hmac=5682f74f0342fd404808b93169bb88b33ffe97592b3804c2d0711a9757d7db01",
+    "phone": "tel:07709364125",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/shar+hospital+sulaymaniyah/@35.5706035,45.4295815,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002dabf0221c1b:0xc5378cb72c066575!2m2!1d45.4427064!2d35.5813418?entry=ttu"
+  },
+  {
+    "name": "Dr. Lara Bahadin",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, DM",
+    "location": "Smart Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/female-doctor-lab-coat-white-isolated-confident-smile_343596-6556.jpg?w=740&t=st=1687523584~exp=1687524184~hmac=277c7636551001b1abf82e78cbe666e3c923343c1331fc595e5a6352eb00293b",
+    "phone": "tel:07709389125",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/smart+hospital+slemani/@35.5659749,45.4271681,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d6c51808c1d:0xd799ab94a3ed14f8!2m2!1d45.4430537!2d35.5688398?entry=ttu"
+  },
+  {
+    "name": "Dr. Wrya Salim",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, DM",
+    "location": "Smart Hospital, Slemani ",
+    "image": "https://img.freepik.com/free-photo/doctor-with-his-arms-crossed-white-background_1368-5789.jpg?w=740&t=st=1687523912~exp=1687524512~hmac=bbbfc8960429bbb0a490ec5e8296d111e51790a0632cbc0f4d4a807d0721760f",
+    "phone": "tel:07701289125",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/smart+hospital+slemani/@35.5659749,45.4271681,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d6c51808c1d:0xd799ab94a3ed14f8!2m2!1d45.4430537!2d35.5688398?entry=ttu"
+  },
+  {
+    "name": "Dr. Chro Chalak",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, DM",
+    "location": "Smart Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/professional-medic-woman-with-tablet_23-2147648682.jpg?w=360&t=st=1687524144~exp=1687524744~hmac=58b036b425bd15e889aee7ebea35260549f8c7702f8533eb257a355121f6bbab",
+    "phone": "tel:07711289125",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/smart+hospital+slemani/@35.5659749,45.4271681,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d6c51808c1d:0xd799ab94a3ed14f8!2m2!1d45.4430537!2d35.5688398?entry=ttu"
+  },
+  {
+    "name": "Dr. Sana Jaza",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, DM",
+    "location": "Smart Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/portrait-her-she-nice-attractive-pretty-cheerful-cheery-skilled-medic-wavyhaired-nurse-phonendoscope-stethoscope-isolated-grey-pastel-color-background_274222-24538.jpg?w=740",
+    "phone": "tel:07711289967",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/smart+hospital+slemani/@35.5659749,45.4271681,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d6c51808c1d:0xd799ab94a3ed14f8!2m2!1d45.4430537!2d35.5688398?entry=ttu"
+  },
+  {
+    "name": "Dr Nabaz Kamaran",
+    "speciality": "Cardiologist",
+    "experience": "MBBS, MD, DM",
+    "location": "Smart Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/serious-attractive-young-male-doctor-with-stethoscope_1262-17180.jpg?w=740&t=st=1687525281~exp=1687525881~hmac=f7b6e7e23a34000a3c51983cc1e3626db45bcf90512ab5a7318d0b1d460d3c7e",
+    "phone": "tel:07715489967",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/smart+hospital+slemani/@35.5659749,45.4271681,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d6c51808c1d:0xd799ab94a3ed14f8!2m2!1d45.4430537!2d35.5688398?entry=ttu"
+  }
+  
+  
+]

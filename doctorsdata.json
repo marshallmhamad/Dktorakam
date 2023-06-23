@@ -178,6 +178,51 @@
     "image": "https://img.freepik.com/free-photo/portrait-confident-male-doctor-dressed-uniform_171337-1484.jpg?w=740&t=st=1687535250~exp=1687535850~hmac=f3528cfc5393ee8e3368e96cf4a66af07305dd672d55a7960ccfb4cb4ee55040",
     "phone": "tel:07701771448",
     "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/shorsh+hospital/@35.5441729,45.4254082,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x4000296d449927fb:0x2db54628a1b54643!2m2!1d45.459892!2d35.5244776?entry=ttu"
+  },
+  {
+    "name": "Dr. Zhalia Jabar",
+    "speciality": "Orthopedic",
+    "experience": "MBBS, MS",
+    "location": "Baxshin Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/young-nurse-woman-with-estethoscope-isolated_1187-367854.jpg?w=740",
+    "phone": "tel:07701771238",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/%D9%86%DB%95%D8%AE%DB%86%D8%B4%D8%AE%D8%A7%D9%86%DB%95%DB%8C+%D8%A8%DB%95%D8%AE%D8%B4%DB%8C%D9%86%D8%8C+Iraq%2FAs+sulaimanya+Malik+Mahmood+Ring+Road%D8%8C+46001,+Iraq%E2%80%AD%E2%80%AD/@35.5529091,45.4227663,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002eb866ebfa35:0xfc96d73df8844934!2m2!1d45.4515279!2d35.542588?entry=ttu"
+  },
+  {
+    "name": "Dr. Snur Jalal",
+    "speciality": "Orthopedic",
+    "experience": "MBBS, MS",
+    "location": " Baxshin Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/portrait-young-beautiful-woman-doctor-isolated-white_341862-6748.jpg?w=740",
+    "phone": "tel:07701771238",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/%D9%86%DB%95%D8%AE%DB%86%D8%B4%D8%AE%D8%A7%D9%86%DB%95%DB%8C+%D8%A8%DB%95%D8%AE%D8%B4%DB%8C%D9%86%D8%8C+Iraq%2FAs+sulaimanya+Malik+Mahmood+Ring+Road%D8%8C+46001,+Iraq%E2%80%AD%E2%80%AD/@35.5529091,45.4227663,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002eb866ebfa35:0xfc96d73df8844934!2m2!1d45.4515279!2d35.542588?entry=ttu"
+  },
+  {
+    "name": "Dr. Aso Shakir",
+    "speciality": "Orthopedic",
+    "experience": "MBBS, MS, IJRF",
+    "location": "Baxshin Hospital, Slemani ",
+    "image": "https://img.freepik.com/free-photo/young-doctor-with-arms-crossed_23-2147763874.jpg?w=360&t=st=1687539589~exp=1687540189~hmac=74cfa428eaf21f4a350acaa0aae735ef7ba33bef9daf4b00fa23651cf5c8d2e7",
+    "phone": "tel:07701771247",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/%D9%86%DB%95%D8%AE%DB%86%D8%B4%D8%AE%D8%A7%D9%86%DB%95%DB%8C+%D8%A8%DB%95%D8%AE%D8%B4%DB%8C%D9%86%D8%8C+Iraq%2FAs+sulaimanya+Malik+Mahmood+Ring+Road%D8%8C+46001,+Iraq%E2%80%AD%E2%80%AD/@35.5529091,45.4227663,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002eb866ebfa35:0xfc96d73df8844934!2m2!1d45.4515279!2d35.542588?entry=ttu"
+  },
+  {
+    "name": "Dr. Shamall Ibrahim",
+    "speciality": "Orthopedic",
+    "experience": " MBBS, D.Ortho",
+    "location": "Ali Kamal Hospital, Slemani ",
+    "image": "https://img.freepik.com/premium-photo/doctor-intern-with-stethoscope-pink-background_185193-68669.jpg?w=740",
+    "phone": "tel:07701771247",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/HC6W%2BMJ5+Ali+Kamal+Health+Center,+Qanat+St,+Sulaymaniyah,+Iraq/@35.561749,45.4305748,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c15fc075593:0x5c53154e68b63948!2m2!1d45.4465992!2d35.5616292?entry=ttu"
+  },
+  {
+    "name": "Dr. Raz Omed",
+    "speciality": "Orthopedic",
+    "experience": " MBBS, D.Ortho",
+    "location": "Ali Kamal Hospital, Slemani ",
+    "image": "img/dr-dp.png",
+    "phone": "tel:07711371247",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/HC6W%2BMJ5+Ali+Kamal+Health+Center,+Qanat+St,+Sulaymaniyah,+Iraq/@35.561749,45.4305748,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c15fc075593:0x5c53154e68b63948!2m2!1d45.4465992!2d35.5616292?entry=ttu"
   }
   
   

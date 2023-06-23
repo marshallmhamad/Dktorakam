@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-  --primary: #45858e;
-  --secondary: #5872ae;
+  --primary: #00acb1;
+  --secondary: #2c7aa7;
   --light: #eff5f9;
   --dark: #1d2a4d;
 }
@@ -109,17 +109,16 @@
 }
 
 .hero-header {
-  background-color: rgba(19, 197, 221, 0.2); /*primary color */
-  background-image: url(../img/hero.jpg);
+  background-color: rgba(211, 234, 238, 0.2); /*primary color */
+  background-image: url(../img/Doctor-BG.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
   background-blend-mode: multiply;
 }
 .hero-text {
-  border-color: #fff;
   color: var(--secondary);
-  text-shadow: 0.04em 0.04em var(--primary);
+  font-size: 35px;
 }
 
 .service-item {

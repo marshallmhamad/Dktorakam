@@ -1,6 +1,6 @@
 // Define the API endpoint URL
 const API_ENDPOINT =
-  "https://taranjeetsinghkalsi.github.io/Find-My-Doctor/doctorsdata.json";
+  "https://marshallmhamad.github.io/Dktorakam/doctorsdata.json";
 
 // Get a reference to the template
 const doctorTemplate = document.querySelector("#doctor-template");

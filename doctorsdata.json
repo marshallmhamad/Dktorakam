@@ -277,6 +277,35 @@
     "image": "https://img.freepik.com/premium-photo/female-dentist-with-tools-grey-background_253401-5792.jpg?w=740",
     "phone": "tel:07722171656",
     "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/ali+kamal+hospital/@35.561749,45.4305748,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c15fc075593:0x5c53154e68b63948!2m2!1d45.4465992!2d35.5616292?entry=ttu"
+  },
+  {
+    "name": "Dr. Kawa Rahman",
+    "speciality": "Ophthalmologist",
+    "experience": " BDS, FAJE",
+    "location": "Twimalik Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/pleased-young-male-doctor-wearing-medical-robe-stethoscope-around-his-neck-touching-his-chin-elbow-isolated-white-wall_141793-94268.jpg?w=740&t=st=1687592198~exp=1687592798~hmac=839262c32d5f8dc096579a5dd6a1969a7153729919c7c75a15ef48ecfc68db28",
+    "phone": "tel:07722171632",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/twimalik+Hospital/@35.563382,45.4259594,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d5251ae33bb:0x811561368917540c!2m2!1d45.4549117!2d35.5657613?entry=ttu"
+  }
+  ,
+  {
+    "name": "Dr. Kalle Mahmood",
+    "speciality": "Ophthalmologist",
+    "experience": " BDS, FAJE",
+    "location": "Twimalik Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-white-coat-with-stethoscope-with-happy-smile-showing-thumbs-up-standing-isolated-blue_141793-19445.jpg?w=740&t=st=1687592433~exp=1687593033~hmac=2655b494056a5c0b0a74f20ba25804c8b349ab129fbb477e79ebf61d7247fa7d",
+    "phone": "tel:07722171782",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/twimalik+Hospital/@35.563382,45.4259594,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d5251ae33bb:0x811561368917540c!2m2!1d45.4549117!2d35.5657613?entry=ttu"
+  }
+  ,
+  {
+    "name": "Dr. Shanya Kamal",
+    "speciality": "Ophthalmologist",
+    "experience": " BDS, FAJE",
+    "location": "Twimalik Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/young-female-doctor-confidently-gazing-camera_1187-366458.jpg?w=740",
+    "phone": "tel:07722171159",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/twimalik+Hospital/@35.563382,45.4259594,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d5251ae33bb:0x811561368917540c!2m2!1d45.4549117!2d35.5657613?entry=ttu"
   }
   
   

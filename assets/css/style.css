@@ -1743,7 +1743,7 @@ img {
 
 .footer__icon-card__content {
   font-size: 0.875rem;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .footer__icon-card__link {
@@ -1763,7 +1763,7 @@ img {
 }
 
 .footer__block {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 @media (max-width: 1199px) {

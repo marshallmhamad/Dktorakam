@@ -223,6 +223,33 @@
     "image": "img/dr-dp.png",
     "phone": "tel:07711371247",
     "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/HC6W%2BMJ5+Ali+Kamal+Health+Center,+Qanat+St,+Sulaymaniyah,+Iraq/@35.561749,45.4305748,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c15fc075593:0x5c53154e68b63948!2m2!1d45.4465992!2d35.5616292?entry=ttu"
+  },
+  {
+    "name": "Dr. Alan Raza",
+    "speciality": "Neurologist",
+    "experience": "MD(Medicine), DNB(Medicine), DM(Neurology), DNB(Neurology",
+    "location": "Anwar Shexa Hospital, Slemani ",
+    "image": "https://img.freepik.com/free-photo/portrait-happy-cheerful-successful-male-doctor-with-stethoscope_186202-1179.jpg?w=360&t=st=1687587056~exp=1687587656~hmac=f3f1318e6e2e698527de3e8322e84bc6fa4658ff2aa074ded5a1d0a49394fe11",
+    "phone": "tel:07728571247",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/anwar+shexa/@35.5686487,45.4168178,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d2c7c9caed7:0x65cb7bd4e66550b8!2m2!1d45.4211157!2d35.574141?entry=ttu"
+  },
+  {
+    "name": "Dr. Fro Qasim",
+    "speciality": "Neurologist",
+    "experience": "MBBS",
+    "location": "Anwar Shexa Hospital, Slemani ",
+    "image": "https://img.freepik.com/free-photo/smiling-looking-front-young-female-doctor-wearing-medical-robe-with-stethoscope-isolated-pink-wall_141793-90651.jpg?w=740&t=st=1687587411~exp=1687588011~hmac=380f8f31f2202c5eec6bcdbf454f084776a0988f358d078008d846932e1c2a43",
+    "phone": "tel:07728571325",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/anwar+shexa/@35.5686487,45.4168178,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d2c7c9caed7:0x65cb7bd4e66550b8!2m2!1d45.4211157!2d35.574141?entry=ttu"
+  },
+  {
+    "name": "Dr. Tara Rasul",
+    "speciality": "Neurologist",
+    "experience": "MD",
+    "location": " Anwar Shexa Hospital, Slemani ",
+    "image": "https://img.freepik.com/free-photo/front-view-young-female-doctor-putting-hands-waist-yellow-wall_179666-29072.jpg?w=740&t=st=1687588411~exp=1687589011~hmac=c2dd519e33407ff58a3edc997208219b7ae40be3b897e81c80d38c18a5f3436f",
+    "phone": "tel:07728571671",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/anwar+shexa/@35.5686487,45.4168178,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d2c7c9caed7:0x65cb7bd4e66550b8!2m2!1d45.4211157!2d35.574141?entry=ttu"
   }
   
   

@@ -306,6 +306,34 @@
     "image": "https://img.freepik.com/premium-photo/young-female-doctor-confidently-gazing-camera_1187-366458.jpg?w=740",
     "phone": "tel:07722171159",
     "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/twimalik+Hospital/@35.563382,45.4259594,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002d5251ae33bb:0x811561368917540c!2m2!1d45.4549117!2d35.5657613?entry=ttu"
+  },
+  {
+    "name": "Dr. Ahmad Luqman",
+    "speciality": "Paediatrician",
+    "experience": " MBBS, MS",
+    "location": "Royal Hospital, Slemani ",
+    "image": "https://img.freepik.com/premium-photo/young-smiling-handsome-caucasian-doctor-white-background_91014-2402.jpg?w=740",
+    "phone": "tel:07722171132",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/royal+hospital/@35.5646966,45.4328133,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c4107641763:0x804884fcc993b9b2!2m2!1d45.4511862!2d35.5661362?entry=ttu"
+  },
+  {
+    "name": "Dr. Vyan Jalal",
+    "speciality": "Paediatrician",
+    "experience": " MBBS, MS",
+    "location": "Royal Hospital, Slemani",
+    "image": "https://img.freepik.com/free-photo/smiling-young-female-doctor-wearing-medical-robe-with-stethoscope-crossing-hands-isolated-yellow-wall_141793-90363.jpg?w=740&t=st=1687593686~exp=1687594286~hmac=d366fb33f21dabd858c894cb9672200a0cd9ff1841af538f143b3c9b15d7fbfe",
+    "phone": "tel:07722171679",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/royal+hospital/@35.5646966,45.4328133,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c4107641763:0x804884fcc993b9b2!2m2!1d45.4511862!2d35.5661362?entry=ttu"
+  }
+  ,
+  {
+    "name": "Dr. Solin Kamaran",
+    "speciality": "Paediatrician",
+    "experience": " MBBS, MS",
+    "location": "Royal Hospital, Slemani",
+    "image": "https://img.freepik.com/premium-photo/portrait-beautiful-mature-woman-doctor-lab-coat-hospital-shooting-studio_114579-92666.jpg?w=740",
+    "phone": "tel:07722171679",
+    "directions": "https://www.google.com/maps/dir/35.5638555,45.43195/royal+hospital/@35.5646966,45.4328133,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x40002c4107641763:0x804884fcc993b9b2!2m2!1d45.4511862!2d35.5661362?entry=ttu"
   }
   
   

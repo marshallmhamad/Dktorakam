@@ -1,0 +1,684 @@
+/*
+------------------
+
+------------------
+*/
+/* Google Fonts Link */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
+/* Custom Fonts Link */
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Thin.eot");
+  src: local("Axiforma Thin"), local("Axiforma-Thin"),
+    url("../fonts/axiforma/Axiforma-Thin.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Thin.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Thin.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Book.eot");
+  src: local("Axiforma Book"), local("Axiforma-Book"),
+    url("../fonts/axiforma/Axiforma-Book.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Book.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Book.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Book.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Regular.eot");
+  src: local("Axiforma Regular"), local("Axiforma-Regular"),
+    url("../fonts/axiforma/Axiforma-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Regular.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Regular.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Light.eot");
+  src: local("Axiforma Light"), local("Axiforma-Light"),
+    url("../fonts/axiforma/Axiforma-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Light.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Light.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Medium.eot");
+  src: local("Axiforma Medium"), local("Axiforma-Medium"),
+    url("../fonts/axiforma/Axiforma-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Medium.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Medium.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-SemiBold.eot");
+  src: local("Axiforma SemiBold"), local("Axiforma-SemiBold"),
+    url("../fonts/axiforma/Axiforma-SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-SemiBold.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-SemiBold.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Bold.eot");
+  src: local("Axiforma Bold"), local("Axiforma-Bold"),
+    url("../fonts/axiforma/Axiforma-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Bold.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Bold.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-ExtraBold.eot");
+  src: local("Axiforma ExtraBold"), local("Axiforma-ExtraBold"),
+    url("../fonts/axiforma/Axiforma-ExtraBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-ExtraBold.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-ExtraBold.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Black.eot");
+  src: local("Axiforma Black"), local("Axiforma-Black"),
+    url("../fonts/axiforma/Axiforma-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Black.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Black.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Axiforma";
+  src: url("../fonts/axiforma/Axiforma-Heavy.eot");
+  src: local("Axiforma Heavy"), local("Axiforma-Heavy"),
+    url("../fonts/axiforma/Axiforma-Heavy.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/axiforma/Axiforma-Heavy.woff2") format("woff2"),
+    url("../fonts/axiforma/Axiforma-Heavy.woff") format("woff"),
+    url("../fonts/axiforma/Axiforma-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Typography Reset */
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  font-family: "Axiforma", Arial, serif;
+}
+
+h1,
+.h1 {
+  font-size: 2.25rem;
+}
+
+h2,
+.h2 {
+  font-size: 1.875rem;
+}
+
+h3,
+.h3 {
+  font-size: 1.5rem;
+}
+
+h4,
+.h4 {
+  font-size: 1.125rem;
+}
+
+h5,
+.h5 {
+  font-size: 0.75rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+@media (max-width: 575px) {
+  p {
+    font-size: 0.875rem;
+  }
+}
+
+/* Reset CSS */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+::-moz-selection {
+  color: #ffffff;
+  background: #7b68ee;
+}
+
+::selection {
+  color: #ffffff;
+  background: #7b68ee;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+body {
+  color: #292d34;
+  font-weight: 400;
+  font-family: "Axiforma", Arial, serif;
+  text-rendering: optimizeSpeed;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: unset;
+}
+
+button,
+button:hover,
+button:focus,
+button:active {
+  outline: none;
+}
+
+input:-webkit-autofill {
+  -webkit-text-fill-color: unset;
+  -webkit-transition: background-color 5000s;
+  -o-transition: background-color 5000s;
+  -moz-transition: background-color 5000s;
+  transition: background-color 5000s;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img {
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.user-select-none {
+  pointer-events: none;
+}
+
+.list-inline {
+  font-size: 0;
+}
+
+.list-inline-item {
+  font-size: 1rem;
+}
+
+/* Custom Container Style */
+@media (min-width: 1401px) {
+  .container {
+    max-width: 1230px;
+  }
+}
+
+/* Common Slick Style */
+.slick__arrows {
+  bottom: 5%;
+  position: absolute;
+  z-index: 2;
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: transparent;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #292d34;
+  -webkit-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.slick__arrows--left {
+  right: -moz-calc(5% + 55px);
+  right: calc(5% + 55px);
+}
+
+.slick__arrows--right {
+  right: 5%;
+}
+
+.slick__arrows.slick-disabled {
+  opacity: 0.25;
+}
+
+.slick__arrows.slick-disabled:hover,
+.slick__arrows.slick-disabled:focus-visible {
+  border-color: #292d34;
+  background-color: transparent;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.slick__arrows__image {
+  max-width: 0.9375rem;
+}
+
+.slick__arrows:hover,
+.slick__arrows:focus-visible {
+  border-color: #7b68ee;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 19.0016px 90.2576px rgba(253, 113, 175, 0.1);
+  box-shadow: 0 19.0016px 90.2576px rgba(253, 113, 175, 0.1);
+}
+
+/* Veno Box Style */
+.vbox-close {
+  top: 2%;
+  right: 2%;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  padding: 0;
+  padding-top: 0.375rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-size: 3rem;
+  background: #7b68ee !important;
+  color: #ffffff !important;
+  -webkit-transition: -webkit-transform 0.2s ease-in-out;
+  transition: -webkit-transform 0.2s ease-in-out;
+  -o-transition: -o-transform 0.2s ease-in-out;
+  -moz-transition: transform 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out,
+    -moz-transform 0.2s ease-in-out, -o-transform 0.2s ease-in-out;
+}
+
+.vbox-close:hover {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.vbox-preloader .sk-child,
+.vbox-preloader .sk-rect,
+.vbox-preloader .sk-cube,
+.vbox-preloader .sk-spinner,
+.vbox-preloader .sk-rotating-plane {
+  background: #7b68ee !important;
+}
+
+.vbox-next,
+.vbox-prev {
+  width: 3rem;
+  height: 3rem;
+}
+
+.vbox-next span,
+.vbox-prev span {
+  width: 2rem;
+  height: 2rem;
+  border-width: 4px;
+  border-top-color: #7b68ee !important;
+  border-right-color: #7b68ee !important;
+}
+
+/* Preloader Section Style */
+.preloader {
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+/* Common Section Gap Style */
+.section-gap {
+  padding: 6rem 0;
+}
+
+@media (max-width: 991px) {
+  .section-gap {
+    padding: 3rem 0;
+  }
+}
+
+.section-gap--fix {
+  padding-bottom: -moz-calc(6rem - 30px);
+  padding-bottom: calc(6rem - 30px);
+}
+
+@media (max-width: 991px) {
+  .section-gap--fix {
+    padding-bottom: -moz-calc(3rem - 30px);
+    padding-bottom: calc(3rem - 30px);
+  }
+}
+
+/* Common Section Heading Style */
+.section-header {
+  margin-bottom: 3.125rem;
+}
+
+@media (max-width: 575px) {
+  .section-header {
+    margin-bottom: 1.875rem;
+  }
+}
+
+.section-header__title {
+  font-size: 2.5rem;
+  font-family: unset;
+}
+
+@media (max-width: 767px) {
+  .section-header__title {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .section-header__title {
+    font-size: 1.625rem;
+  }
+}
+
+.primary-text {
+  color: #7b68ee;
+}
+
+/* Common Transition Style */
+.header .navbar-toggler,
+.header .navbar .nav-item .dropdown-toggle__icon,
+.header .navbar .nav-item .dropdown-menu,
+.header .navbar .nav-item .dropdown-item,
+.header .navbar .nav-link,
+.header .navbar .nav-btn {
+  -webkit-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
+  -moz-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+}
+
+/* Common  Border Radius Style */
+.primary-btn,
+.scroll-top__btn,
+.banner__form .form-control,
+.header .navbar .nav-link,
+.header .navbar .nav-btn,
+.footer__card,
+.features__btn__text {
+  border-radius: 0.5625rem;
+}
+
+/* Common Font-Awesome font-family Style */
+/* Common Button's Style */
+.primary-btn {
+  display: inline-block;
+  color: #ffffff;
+  font-size: 0.875rem;
+  font-family: "Axiforma", Arial, serif;
+  font-weight: 800;
+  padding: 2px 1.875rem;
+  min-width: 8.625rem;
+  min-height: 3.125rem;
+  background: #7b68ee;
+  text-transform: capitalize;
+  border: 0;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  -moz-transition: 0.2s;
+  transition: 0.2s;
+}
+
+.primary-btn--primary {
+  -webkit-box-shadow: 0 0.625rem 1.5625rem rgba(123, 104, 238, 0.5);
+  box-shadow: 0 0.625rem 1.5625rem rgba(123, 104, 238, 0.5);
+}
+
+.primary-btn--primary.dark-hover:hover,
+.primary-btn--primary.dark-hover:focus-visible {
+  background-color: #5c4dbc;
+}
+
+.primary-btn--pink {
+  background-color: #fd71af;
+  -webkit-box-shadow: 0 0.625rem 1.5625rem rgba(253, 113, 175, 0.3);
+  box-shadow: 0 0.625rem 1.5625rem rgba(253, 113, 175, 0.3);
+}
+
+.primary-btn--pink:hover,
+.primary-btn--pink:focus-visible {
+  -webkit-box-shadow: 0 0.625rem 1.5625rem rgba(253, 113, 175, 0.5);
+  box-shadow: 0 0.625rem 1.5625rem rgba(253, 113, 175, 0.5);
+}
+
+.primary-btn--cyen {
+  background-color: #49ccf9;
+  -webkit-box-shadow: 0 0.625rem 1.5625rem rgba(73, 204, 249, 0.3);
+  box-shadow: 0 0.625rem 1.5625rem rgba(73, 204, 249, 0.3);
+}
+
+.primary-btn--cyen:hover,
+.primary-btn--cyen:focus-visible {
+  -webkit-box-shadow: 0 0.625rem 1.5625rem rgba(73, 204, 249, 0.5);
+  box-shadow: 0 0.625rem 1.5625rem rgba(73, 204, 249, 0.5);
+}
+
+.scroll-top {
+  bottom: 3%;
+  right: 1%;
+  display: none;
+  cursor: pointer;
+  z-index: 7;
+}
+
+@media (max-width: 575px) {
+  .scroll-top {
+    bottom: 2%;
+  }
+}
+
+.scroll-top__btn {
+  width: 2.8rem;
+  height: 2.8rem;
+  font-size: 1.1rem;
+  color: #ffffff;
+  background: #7b68ee;
+  -webkit-box-shadow: 0 0.625rem 1.5625rem rgba(123, 104, 238, 0.5);
+  box-shadow: 0 0.625rem 1.5625rem rgba(123, 104, 238, 0.5);
+}
+
+/* Common Nav Pills Style */
+.nav-pills .nav-item:not(:last-child) {
+  margin-right: 1.25rem;
+}
+
+.nav-pills .nav-link {
+  color: #292d34;
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+@media (max-width: 575px) {
+  .nav-pills .nav-link {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.nav-pills .nav-link.active {
+  color: #292d34;
+  background-color: transparent;
+}
+
+.nav-pills .nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%) scaleX(0);
+  -moz-transform: translateX(-50%) scaleX(0);
+  -ms-transform: translateX(-50%) scaleX(0);
+  -o-transform: translateX(-50%) scaleX(0);
+  transform: translateX(-50%) scaleX(0);
+  width: 100%;
+  height: 3px;
+  border-radius: 3px;
+  background-color: #7b68ee;
+  opacity: 0;
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+.nav-pills .nav-link.active::after,
+.nav-pills .nav-link:hover::after,
+.nav-pills .nav-link:focus-visible::after {
+  opacity: 1;
+  -webkit-transform: translateX(-50%) scaleX(1);
+  -moz-transform: translateX(-50%) scaleX(1);
+  -ms-transform: translateX(-50%) scaleX(1);
+  -o-transform: translateX(-50%) scaleX(1);
+  transform: translateX(-50%) scaleX(1);
+}
+
+@media (min-width: 768px) {
+  .nav-pills--with-count .nav-item {
+    width: 50%;
+    margin-right: 0 !important;
+  }
+  .nav-pills--with-count .nav-link {
+    color: #b9bec7;
+    -webkit-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  .nav-pills--with-count .nav-link__count {
+    color: #292d34;
+    font-size: 0.5625rem;
+    font-weight: 700;
+    line-height: 1;
+    width: 1.5625rem;
+    height: 1.5625rem;
+    background-color: #ffffff;
+    margin-right: 0.625rem;
+  }
+  .nav-pills--with-count .nav-link::after {
+    display: none;
+  }
+  .nav-pills--with-count .nav-link::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    -webkit-transform-origin: right center;
+    -moz-transform-origin: right center;
+    -ms-transform-origin: right center;
+    -o-transform-origin: right center;
+    transform-origin: right center;
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    transform: scaleX(0);
+    width: 2.8125rem;
+    height: 5px;
+    border-radius: 5px;
+    background-color: #00b884;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  .nav-pills--with-count .nav-link.active .nav-link__count {
+    color: #ffffff;
+    background-color: #00b884;
+    -webkit-box-shadow: 0 20px 25px rgba(0, 184, 132, 0.2);
+    box-shadow: 0 20px 25px rgba(0, 184, 132, 0.2);
+  }
+  .nav-pills--with-count .nav-link.active::before {
+    -webkit-transform: scaleX(1);
+    -moz-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    -o-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .nav-pills--with-count .nav-link.active,
+  .nav-pills--with-count .nav-link:hover,
+  .nav-pills--with-count .nav-link:focus-visible {
+    color: #292d34;
+  }
+}

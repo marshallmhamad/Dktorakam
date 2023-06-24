@@ -329,6 +329,10 @@ img {
   box-shadow: 0 19.0016px 90.2576px rgba(253, 113, 175, 0.1);
 }
 
+.navbar-brand__logo {
+  padding-right: 18px !important;
+}
+
 /* Veno Box Style */
 .vbox-close {
   top: 2%;
